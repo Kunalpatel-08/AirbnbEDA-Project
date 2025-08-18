@@ -131,6 +131,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Author
 - **Kunal Patel**
-- **GitHub**: [kunalpatel]([https://github.com/yourusername](https://github.com/Kunalpatel-08)
+- **GitHub**: [kunalpatel](https://github.com/Kunalpatel-08)
 - **Contact**: kunalpatel1538@gmail.com
 
